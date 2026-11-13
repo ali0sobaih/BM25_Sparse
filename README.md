@@ -33,10 +33,12 @@ To ensure clean keyword matching, incoming queries and dataset passages undergo 
 * Python 3.10+
 * Git
 
-### FOR INSTALLING THE REQUIREMENTS
-* pip install -r requirements.txt 
 
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/ali0sobaih/BM25_Sparse.git](https://github.com/ali0sobaih/BM25_Sparse.git)
 cd BM25_Sparse
+```
+
+### 2.FOR INSTALLING THE REQUIREMENTS
+* pip install -r requirements.txt 
