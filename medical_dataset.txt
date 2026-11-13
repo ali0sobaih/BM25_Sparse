@@ -1,0 +1,114 @@
+The anatomical position is the standard reference position for the human body. In this position, the body is standing upright, facing forward, with arms at the side and palms facing forward.
+The sagittal plane is a vertical plane that divides the body or an organ into right and left sides. A median sagittal plane or midsagittal plane divides the body into equal right and left halves.
+The coronal plane or frontal plane divides the body or an organ into anterior (front) and posterior (back) portions.
+The transverse plane or horizontal plane divides the body into superior (upper) and inferior (lower) portions.
+The femoral triangle is a subinguinal space located in the upper third of the anterior thigh. Its boundaries are formed superiorly by the inguinal ligament, medially by the adductor longus muscle, and laterally by the sartorius muscle.
+The femoral artery, femoral vein, and femoral nerve pass through the femoral triangle. The femoral artery provides oxygenated blood supply to the lower extremities, leg muscles, and anterior thigh.
+The rotator cuff consists of four muscles and their tendons: supraspinatus, infraspinatus, teres minor, and subscapularis (often abbreviated as SITS). These muscles stabilize the glenohumeral joint during shoulder movement.
+The supraspinatus muscle aids in abduction of the shoulder arm. The infraspinatus and teres minor assist in lateral or external rotation of the arm. The subscapularis muscle acts as an internal rotator of the humerus.
+The brachial plexus is a network of nerves formed by the anterior rami of lower cervical spinal nerves C5 through C8 and the first thoracic spinal nerve T1. It provides sensory and motor innervation to the upper limb.
+The major terminal branches of the brachial plexus include the musculocutaneous nerve, axillary nerve, radial nerve, median nerve, and ulnar nerve.
+Fractures of the humeral shaft can damage the radial nerve as it travels through the radial groove on the posterior surface of the humerus, leading to wrist drop condition.
+The gastrointestinal system processes food and absorbs nutrients. Common side effects of nonsteroidal anti-inflammatory drugs (NSAIDs) include acute abdominal pain, gastric ulceration, and general gastrointestinal discomfort.
+Biceps brachii muscles are two-headed muscles located on the anterior compartment of the arm responsible for elbow flexion and forearm supination.
+Triceps brachii muscles sit on the posterior compartment of the arm and function as the primary extensor of the elbow joint.
+The cardiovascular system transports oxygen and nutrients throughout the body via blood vessels driven by the pumping action of the four-chambered heart.
+
+The skeletal system provides structural framework, protects internal organs, and facilitates movement via articulation with muscular structures.
+The axial skeleton includes the skull, vertebral column, rib cage, and sternum, comprising 80 bones that protect the central nervous system and thoracic organs.
+The appendicular skeleton consists of 126 bones forming the upper and lower limbs, as well as the pectoral and pelvic girdles responsible for locomotion and manual dexterity.
+Bone tissue is organized into compact (cortical) bone on the outer rim and cancellous (trabecular) bone in the interior, housing red bone marrow for hematopoiesis.
+Osteoblasts are primary bone-forming cells responsible for synthesizing bone matrix, while osteocytes maintain mature bone structure and regulate mineral balance.
+Osteoclasts are multinucleated cells derived from macrophage lineages that reabsorb bone tissue during bone remodeling and calcium homeostasis.
+The spinal column consists of 33 vertebrae divided into 7 cervical, 12 thoracic, 5 lumbar, 5 fused sacral, and 4 fused coccygeal segments.
+Intervertebral discs act as shock absorbers between adjacent vertebrae, composed of an outer fibrous ring called the anulus fibrosus and an inner gelatinous nucleus pulposus.
+Herniation of the nucleus pulposus can compress spinal nerve roots, leading to radiculopathy, localized back pain, paresthesia, or motor weakness in target limbs.
+The knee joint is a complex modified hinge joint formed by the distal femur, proximal tibia, and patella, stabilized by collateral and cruciate ligaments.
+
+The central nervous system consists of the brain and spinal cord, encapsulated by protective meningeal layers and suspended in cerebrospinal fluid.
+The brain is divided into three major structural divisions: the cerebrum, cerebellum, and brainstem.
+The cerebrum contains four main lobes: frontal, parietal, temporal, and occipital, each responsible for higher-order cognitive, sensory, and motor functions.
+The frontal lobe houses the primary motor cortex in the precentral gyrus and Broca's area, which governs motor control of speech production.
+The parietal lobe processes somatosensory information such as touch, pressure, temperature, and pain within the postcentral gyrus.
+The occipital lobe contains the primary visual cortex, responsible for processing visual input, spatial perception, and pattern recognition.
+The temporal lobe houses Wernicke's area for language comprehension and the auditory cortex for sound processing and frequency discrimination.
+The cerebellum coordinates voluntary muscle movements, posture, fine motor control, and motor learning through feedback loops with the cerebral cortex.
+The brainstem comprises the midbrain, pons, and medulla oblongata, regulating vital autonomic functions including respiration, heart rate, and vasomotor tone.
+Cerebrospinal fluid (CSF) is produced by the choroid plexus inside the brain ventricles, circulating through the subarachnoid space to provide mechanical cushion and metabolic clearance.
+
+The peripheral nervous system connects the central nervous system to limbs, organs, and peripheral tissues, divided into somatic and autonomic branches.
+There are 12 pairs of cranial nerves originating directly from the brainstem and brain structure, labeled sequentially with Roman numerals I through XII.
+Cranial Nerve I (Olfactory Nerve) transmits sensory information regarding sense of smell from nasal mucosa to olfactory bulbs.
+Cranial Nerve II (Optic Nerve) carries visual information from retinal photoreceptors to the optic chiasm and primary visual cortex.
+Cranial Nerves III (Oculomotor), IV (Trochlear), and VI (Abducens) control extraocular muscles responsible for eye movement and pupil constriction.
+Cranial Nerve V (Trigeminal Nerve) provides general sensory input to the face and scalp while supplying motor control to muscles of mastication.
+Cranial Nerve VII (Facial Nerve) controls muscles of facial expression, taste sensation from the anterior two-thirds of the tongue, and salivary gland secretion.
+Cranial Nerve VIII (Vestibulocochlear Nerve) carries sensory signals for hearing from the cochlea and equilibrium balance from vestibular canals.
+Cranial Nerve IX (Glossopharyngeal Nerve) and Cranial Nerve X (Vagus Nerve) regulate swallowing, visceral sensation, and autonomic innervation of thoracic/abdominal organs.
+The autonomic nervous system is subdivided into sympathetic (fight-or-flight) and parasympathetic (rest-and-digest) divisions maintaining homeostasis.
+
+The heart is a muscular four-chambered organ situated in the middle mediastinum, surrounded by a protective double-walled pericardial sac.
+The right atrium receives deoxygenated blood returning from systemic circulation via the superior vena cava, inferior vena cava, and coronary sinus.
+Deoxygenated blood flows from the right atrium through the tricuspid valve into the right ventricle, which pumps it into the pulmonary trunk towards the lungs.
+Oxygenated blood returns from pulmonary capillaries via four pulmonary veins into the left atrium, entering the left ventricle across the bicuspid (mitral) valve.
+The left ventricle possesses thick muscular walls to generate high systolic pressures required to propel blood into systemic circulation through the aorta.
+The cardiac conduction system generates rhythmic electrical impulses originating in the sinoatrial (SA) node, traveling to the atrioventricular (AV) node and Bundle of His.
+Purkinje fibers rapidly distribute electrical depolarization through ventricular myocardium to initiate coordinated ventricular contraction.
+Coronary arteries branch from the ascending aorta to supply oxygenated blood directly to myocardium; occlusion leads to myocardial infarction.
+Systemic arteries divide into smaller arterioles, which regulate vascular resistance and capillary perfusion pressure via smooth muscle tone.
+Capillaries facilitate nutrient, gas, and metabolic waste exchange between intravascular blood plasma and surrounding interstitial fluid.
+
+The respiratory system consists of conducting airways and respiratory zones responsible for gas exchange between blood and atmospheric air.
+The upper respiratory tract includes the nasal cavity, paranasal sinuses, pharynx, and larynx, which warm, humidify, and filter incoming air.
+The trachea descends anterior to the esophagus, bifurcating at the carina into primary right and left main bronchi.
+The right lung has three distinct lobes (superior, middle, inferior) separated by oblique and horizontal fissures.
+The left lung possesses two lobes (superior, inferior) separated by an oblique fissure, featuring a cardiac notch to accommodate the heart apex.
+Bronchi divide into smaller secondary lobar bronchi, tertiary segmental bronchi, and terminal bronchioles within bronchopulmonary segments.
+Respiratory bronchioles lead into alveolar ducts and cluster clusters of alveoli, the primary sites of pulmonary gas exchange.
+Alveolar walls are lined by thin Type I pneumocytes for gas diffusion and Type II pneumocytes that secrete pulmonary surfactant to reduce surface tension.
+Breathing mechanics depend on diaphragm contraction and intercostal muscle movement, which alter intrapleural pressure to drive inhalation and exhalation.
+Spirometry measures lung volumes such as forced vital capacity (FVC) and forced expiratory volume in one second (FEV1) to diagnose obstructive/restrictive pulmonary diseases.
+
+The gastrointestinal tract is a continuous muscular tube extending from the oral cavity to the anus, specialized for digestion and nutrient absorption.
+The esophagus utilizes peristaltic smooth muscle contractions to propel swallowed food boluses past the lower esophageal sphincter into the stomach.
+The stomach secretes hydrochloric acid from parietal cells and pepsinogen from chief cells to break down food into acidic liquid chyme.
+The small intestine is divided into three anatomical segments: the duodenum, jejunum, and ileum, providing extensive surface area via mucosal villi.
+The duodenum receives digestive enzyme secretions from the pancreas and bile salts from the gallbladder via the sphincter of Oddi.
+The liver performs essential metabolic functions, including glycogen storage, plasma protein synthesis, detoxification, and continuous bile production.
+Bile is concentrated and stored inside the gallbladder until released in response to cholecystokinin (CCK) stimulation following fatty meal ingestion.
+The large intestine (colon) consists of cecum, ascending colon, transverse colon, descending colon, sigmoid colon, and rectum, absorbing water and electrolytes.
+Intestinal microflora within the colon synthesize vitamin K and short-chain fatty acids while aiding carbohydrate fermentation.
+Common gastrointestinal disorders include gastroesophageal reflux disease (GERD), peptic ulcer disease, inflammatory bowel disease (IBD), and irritable bowel syndrome (IBS).
+
+The urinary system regulates blood pressure, fluid volume, electrolyte concentrations, acid-base equilibrium, and metabolic waste excretion.
+The kidneys are paired retroperitoneal organs located on either side of the vertebral column between T12 and L3 spinal levels.
+Each kidney contains approximately one million functional microscopic units termed nephrons, located in the renal cortex and medulla.
+A nephron consists of a renal corpuscle (glomerulus and Bowman's capsule) and a renal tubule system (proximal tubule, loop of Henle, distal tubule, collecting duct).
+Glomerular filtration rate (GFR) measures blood volume filtered per minute across the fenestrated glomerular capillary basement membrane.
+The proximal convoluted tubule reabsorbs the majority of filtered water, sodium, glucose, amino acids, and bicarbonate back into peritubular capillaries.
+The loop of Henle establishes a hypertonic medullary osmotic gradient through countercurrent multiplication, enabling urine concentration.
+Antidiuretic hormone (ADH) acts on collecting ducts to insert aquaporin channels, increasing water reabsorption during dehydration state.
+The renin-angiotensin-aldosterone system (RAAS) regulates systemic blood pressure and sodium retention in response to renal hypoperfusion.
+Urine drains from collecting ducts into renal calyces, renal pelvis, ureters, urinary bladder, and is excreted via the urethra during micturition.
+
+The endocrine system modulates cellular physiology, growth, metabolism, and reproductive processes through hormone secretion into blood circulation.
+The hypothalamus serves as the primary neuroendocrine interface, synthesizing releasing and inhibiting hormones that control the anterior pituitary gland.
+The anterior pituitary (adenohypophysis) secretes thyroid-stimulating hormone (TSH), adrenocorticotropic hormone (ACTH), growth hormone (GH), and gonadotropins (FSH/LH).
+The posterior pituitary (neurohypophysis) stores and releases oxytocin and antidiuretic hormone (ADH) synthesized in hypothalamic nuclei.
+The thyroid gland produces thyroxine (T4) and triiodothyronine (T3), regulating basal metabolic rate, heat production, and cellular oxygen consumption.
+Parathyroid glands secrete parathyroid hormone (PTH) in response to hypocalcemia, stimulating osteoclast activity and renal calcium reabsorption.
+Adrenal glands consist of an outer cortex producing corticosteroids (aldosterone, cortisol, androgens) and an inner medulla producing catecholamines (epinephrine, norepinephrine).
+The endocrine pancreas houses islets of Langerhans; alpha cells secrete glucagon to raise blood glucose, while beta cells secrete insulin to lower blood glucose.
+Type 1 diabetes mellitus results from autoimmune destruction of pancreatic beta cells, causing absolute insulin deficiency and hypercalcemia risk.
+Type 2 diabetes mellitus is characterized by peripheral insulin resistance combined with progressive impairment of pancreatic insulin secretion.
+
+The immune system protects against pathogenic microbes, foreign antigens, and abnormal malignant cell populations through innate and adaptive mechanisms.
+Innate immunity provides immediate, non-specific barrier protection via physical epithelial barriers, phagocytic cells, natural killer (NK) cells, and complement proteins.
+Adaptive immunity delivers targeted antigen-specific responses mediated by T lymphocytes (cell-mediated) and B lymphocytes (humoral antibody production).
+B lymphocytes differentiate into plasma cells that secrete specific immunoglobulins (IgG, IgM, IgA, IgE, IgD) to neutralize foreign pathogens.
+T helper lymphocytes (CD4+) coordinate immune activity by secreting cytokines, whereas cytotoxic T lymphocytes (CD8+) eliminate infected or damaged cells.
+Blood is composed of plasma matrix and formed cellular elements: erythrocytes (red blood cells), leukocytes (white blood cells), and thrombocytes (platelets).
+Erythrocytes contain hemoglobin molecules designed to bind oxygen in lungs and release it to metabolically active peripheral tissues.
+Anemia is defined as a reduction in red blood cell mass or hemoglobin concentration, leading to tissue hypoxia and fatigue symptoms.
+Platelets and coagulation cascades interact during hemostasis to form fibrin blood clots at sites of vascular endothelial injury.
+Inflammatory responses trigger vasodilation, increased capillary permeability, neutrophilic migration, and release of inflammatory cytokines like TNF-alpha and IL-6.
